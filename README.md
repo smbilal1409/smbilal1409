@@ -1,11 +1,3 @@
-Absolutely. Since this is your **GitHub Profile README**, I would make it significantly stronger than the previous version.
-
-Your CV gives you a much better story: you're not only an AI/ML student—you are positioning yourself as someone who works across **AI/ML + Data Analytics + Software Engineering + MERN full-stack development**. That combination can make the profile stand out to internship recruiters.
-
-I would also avoid claiming things you haven't listed as experience. For example, instead of saying you're already an "AI Engineer," we'll present you as an **AI/ML Engineer in training / aspiring AI/ML Engineer**.
-
-Here is the complete README I recommend:
-
 # 👋 Hi, I'm Muhammad Bilal Sheikh
 
 ### 🤖 AI/ML Engineer in Training | 📊 Data Analyst | 💻 Software Engineer | 🌐 Full-Stack Developer
@@ -143,44 +135,6 @@ The workflow includes:
 **Data Ingestion → Data Validation → Data Transformation → Model Training → Model Evaluation → Artifact Management → Prediction API**
 
 The project focuses on creating a structured, reusable ML architecture suitable for real-world machine learning workflows.
-
----
-
-## 🤖 Production-Oriented Machine Learning System
-
-**Python • Scikit-learn • Pandas • NumPy • Flask/FastAPI**
-
-Built ML workflows designed around a complete machine learning lifecycle rather than simply training a model inside a notebook.
-
-### Pipeline
-
-```text
-Raw Dataset
-     ↓
-Data Ingestion
-     ↓
-Data Validation
-     ↓
-Data Transformation
-     ↓
-Feature Engineering
-     ↓
-Model Training
-     ↓
-Model Evaluation
-     ↓
-Hyperparameter Tuning
-     ↓
-Best Model Selection
-     ↓
-Artifact Management
-     ↓
-API Integration
-     ↓
-Prediction
-```
-
-This approach emphasizes **reusability, modularity, maintainability, and deployment readiness**.
 
 ---
 
@@ -366,7 +320,7 @@ I'm always interested in connecting with developers, AI/ML engineers, data profe
 
 **💼 LinkedIn:** [Muhammad Bilal Sheikh](https://linkedin.com/in/bilalsheikhmuhammad)
 
-**🌐 Portfolio:** *Coming Soon*
+**🌐 Portfolio:** [Muhammad Bilal Sheikh](https://portfolio-lake-iota-8y4ffd2uch.vercel.app/)
 
 **🐙 GitHub:** [@smbilal1409](https://github.com/smbilal1409)
 
