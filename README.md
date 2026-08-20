@@ -1,4 +1,4 @@
-`                                # 👋 Hi, I'm Muhammad Bilal Sheikh`
+# 👋 Hi, I'm Muhammad Bilal Sheikh
 
 ### 🤖 AI/ML Engineer in Training | 📊 Data Analyst | 💻 Software Engineer | 🌐 Full-Stack Developer
 
