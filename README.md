@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Bilal Sheikh
 
-### 🤖 AI/ML Engineer in Training | 📊 Data Analyst | 💻 Software Engineer | 🌐 Full-Stack Developer
+### 🤖 AI/ML Engineer | 📊 Data Analyst | 💻 Software Engineer | 🌐 Full-Stack Developer
 
 <p align="center">
   <b>Building intelligent systems • Turning data into insights • Developing full-stack applications</b>
